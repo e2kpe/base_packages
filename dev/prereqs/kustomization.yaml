@@ -4,5 +4,3 @@ resources:
 - tanzu-packages-namespaces.yaml
 - tanzu-packages-serviceaccounts.yaml
 - cluster-name-secret.yaml
-transformers:
-    - global-labels.yaml
