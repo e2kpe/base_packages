@@ -11,6 +11,7 @@ resources:
 - tanzu-terraform-controller-ns.yaml
 - trident-ns.yaml
 - cert-manager-ns.yaml
+- vmware-systerm-ingress.yaml
 transformers:
     - global-labels.yaml
 
