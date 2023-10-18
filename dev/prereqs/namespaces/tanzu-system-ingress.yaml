@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: vmware-systerm-ingress
+  name: tanzu-system-ingress
